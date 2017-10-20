@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\model_Lcnn_mnist\\model_mnist_lcnnfast\\model_lcnnfast_mnist.ckpt-18751"
+all_model_checkpoint_paths: "D:\\model_Lcnn_mnist\\model_mnist_lcnnfast\\model_lcnnfast_mnist.ckpt-17000"
+all_model_checkpoint_paths: "D:\\model_Lcnn_mnist\\model_mnist_lcnnfast\\model_lcnnfast_mnist.ckpt-17500"
+all_model_checkpoint_paths: "D:\\model_Lcnn_mnist\\model_mnist_lcnnfast\\model_lcnnfast_mnist.ckpt-18000"
+all_model_checkpoint_paths: "D:\\model_Lcnn_mnist\\model_mnist_lcnnfast\\model_lcnnfast_mnist.ckpt-18500"
+all_model_checkpoint_paths: "D:\\model_Lcnn_mnist\\model_mnist_lcnnfast\\model_lcnnfast_mnist.ckpt-18751"
